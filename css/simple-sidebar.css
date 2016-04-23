@@ -53,12 +53,12 @@
 #myCarousel {
     z-index: 100;
     overflow: hidden;
-    height: 400px;
+    max-height: 600px;
 }
 
 .myCarousel .item {
-  position: relative;
-  width: auto;
+  position: center;
+  height: auto;
 }
 
 .sidebar-nav {

@@ -61,6 +61,10 @@
   height: auto;
 }
 
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+}
+
 .sidebar-nav {
     position: absolute;
     top: 0;
